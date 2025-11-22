@@ -4,7 +4,7 @@ CineTrailers é uma plataforma moderna e responsiva para amantes de cinema. O ap
 
 ## 🚀 Demonstração
 
-[Visite o deploy](https://cinetrailers-pro.vercel.app)
+[Visite o deploy](https://cinetraillers.netlify.app/)
 
 ## ✨ Funcionalidades
 
